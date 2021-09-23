@@ -1,7 +1,7 @@
 {
   "name": "curso_gestion_de_dependencias_y_paquetes_con_npm",
   "version": "1.0.1",
-  "description": "",
+  "description": "Whenever I start a new project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

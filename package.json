@@ -1,0 +1,35 @@
+{
+  "name": "curso_gestion_de_dependencias_y_paquetes_con_npm",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hola": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhaegar09/Curso_Gestiod_de_dependencias_y_paquetes_con_npm.git"
+  },
+  "keywords": [],
+  "author": "Edward Reina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rhaegar09/Curso_Gestiod_de_dependencias_y_paquetes_con_npm/issues"
+  },
+  "homepage": "https://github.com/Rhaegar09/Curso_Gestiod_de_dependencias_y_paquetes_con_npm#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.24.0",
+    "webpack": "^5.53.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "bin": {
+    "random_mensaje_edward": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
